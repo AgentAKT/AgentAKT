@@ -5,5 +5,4 @@
 <h1 align="left">Skills:</a> <br>
 
 <img src="https://simpleicons.org/icons/python.svg" height="32"/></h1> <br>
-
 <img src="https://simpleicons.org/icons/postman.svg" height="32"/></h1> <br>
